@@ -1,1 +1,11 @@
 local
+*.iml
+.idea
+.DS_Store
+node_modules
+settings.production.json
+settings.development.json
+settings.json
+*.tar.gz
+.meteor/local
+.config
